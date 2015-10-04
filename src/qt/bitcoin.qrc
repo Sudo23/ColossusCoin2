@@ -2,7 +2,7 @@
     <qresource prefix="/icons">
         <file alias="bitcoin">res/icons/ColossusCoin2.png</file>
         <file alias="coinbg">res/icons/ColossusCoin2-256.png</file>
-        <file alias="yuno">res/icons/ColossusCoin2-Yuno.png</file>
+        <file alias="yuno">res/icons/ColossusCoin2.png</file>
         <file alias="address-book">res/icons/address-book.png</file>
         <file alias="quit">res/icons/quit.png</file>
         <file alias="send">res/icons/send.png</file>
@@ -26,8 +26,8 @@
         <file alias="editpaste">res/icons/editpaste.png</file>
         <file alias="editcopy">res/icons/editcopy.png</file>
         <file alias="add">res/icons/add.png</file>
-        <file alias="bitcoin_testnet">res/icons/PayCon.png</file>
-        <file alias="toolbar_testnet">res/icons/PayCon-16.png</file>
+        <file alias="bitcoin_testnet">res/icons/ColossusCoin2.png</file>
+        <file alias="toolbar_testnet">res/icons/ColossusCoin2-16.png</file>
         <file alias="edit">res/icons/edit.png</file>
         <file alias="history">res/icons/history.png</file>
         <file alias="overview">res/icons/overview.png</file>
@@ -53,7 +53,6 @@
         <file alias="youtube">res/icons/youtube.png</file>
         <file alias="ccex">res/icons/ccex.png</file>
         <file alias="cryptopia">res/icons/cryptopia.png</file>
-        <file alias="yobit">res/icons/yobit.png</file>
         <file alias="social">res/icons/social.png</file>
 		<file alias="block">res/icons/block.png</file>
 		<file alias="statistics">res/icons/stats.png</file>
