@@ -1,12 +1,12 @@
 <h1>ColossusCoin2</h1>
 <h4><i>Environmentally friendly, peer to peer digital currency</i></h4>
-<img src="https://i.imgur.com/fY47HwT.jpg" />
+<img src="http://i.imgur.com/fM70ycG.png" />
 
 | Specification  | Details |
 | ------------- | ------------- |
 | Protocol  | 100% Proof-of-Stake (PoS)  |
 | Block Time  | 2 minutes |
-| Block Rewards  | 4,000 max  |
+| Block Rewards  | 5,000 max  |
 | Stake  | 4-8% per year depending on difficulty  |
 | Stake Weight | 7/28 min/max days |
 | Stake Threshold | 10 days |
